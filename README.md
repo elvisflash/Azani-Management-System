@@ -69,221 +69,86 @@ Maintain service history per client
   1. Quantity
   2. Node ranges (e.g. 2–10, 11–20, etc.)
      
-  ---
-
-## 💰 Billing & Payments
-  * Track:
-    1. Registration fees
-    2. Installation fees
-    3. Monthly subscription payments
-  * Generate invoices and payment records
-  * Maintain client payment history
-
-  ---
-
-## 📊 Reports & Insights
-* Generate structured reports such as:
-  1. Active clients
-  2. Revenue summaries
-  3. Service distribution by bandwidth
-  4. Equipment sales
-* Enable data-driven decision making 📈
-
-  ---
-
+ ---
+ ## 💰Billing & Payments
+ * Track:
+      1. Registration fees
+      2. Installation fees
+      3. Monthly subscription payments
+    * Generate invoices and payment records
+    * Maintain client payment history
+ 
+ ---
   
-
-
-
-
-
-
-## 🏗 System Architecture
-
-### Backend: Microsoft Excel
-
-Used for:
-
-* Data storage and management
-* Automation and calculations
-* Lookup relationships across sheets
-* Data validation and integrity
-* Pivot table reporting
-
-### Frontend: Power BI
-
-Used for:
-
-* Interactive dashboards
-* KPI reporting
-* Portfolio performance analysis
-* Dynamic slicers for filtering
-
----
-
-## 📂 Excel Workbook Structure
-
-The Excel file is built with a relational structure and automated logic across multiple sheets.
-
-### Clients Sheet
-
-* Stores all onboarded clients
-* Only onboarded clients can receive loans
-* Acts as the master client registry
-
-### Loans Sheet
-
-* Records all issued loans
-* Client selection via automated lookup
-* Automatically calculates:
-
-  * Interest
-  * Total payable
-  * Due dates
-  * Loan status
-
-### Payments Sheet
-
-* Records all repayments
-* Automatically links payments to loan IDs
-* Updates balances in real-time
-
-### Records Sheet
-
-* Central transaction ledger
-* Stores both loan and payment transactions
-* Used as the main reporting table
-
----
-
-## 🔄 Automation Features
-
-* Automated interest calculations
-* Real-time balance updates after each payment
-* Auto-classification of loan status:
-
-  * Pending
-  * Settled
-  * Bad Debt
-* Automated lookups across all sheets
-* No manual recalculations required
-
----
-
-## 🛡 Data Validation & Integrity
-
-To ensure clean and accurate data entry, the system includes:
-
-* Dropdown lists for client names and loan IDs
-* Numeric validation for financial fields
-* Date validation for transaction records
-* Duplicate prevention logic
-* Controlled text inputs
-
-This prevents data entry errors and ensures system reliability.
-
----
-
-## 📊 Excel Pivot Reports
-
-The workbook includes two automated pivot tables:
-
-### Loan Portfolio Summary
-
-* Total loans issued
-* Total amount disbursed
-* Interest earned
-* Outstanding balances
-
-### Repayment & Debt Analysis
-
-* Total repayments
-* Pending debts
-* Settled accounts
-* Bad debts
-
-These pivot tables serve as the data source for Power BI.
-
----
-
-## 📈 Power BI Dashboard
-
-The Power BI dashboard connects directly to the Excel file and provides:
-
-### Key Metrics
-
-* Total Loans Issued
-* Total Amount Repaid
-* Outstanding Balances
-* Pending Debts
-* Settled Loans
-* Bad Debts
-* Interest Earned
-
-### Visuals
-
-* KPI cards
-* Bar charts
-* Pie charts
-* Trend analysis
-* Client performance tables
-
-### Interactive Slicers
-
-* Filter by client
-* Filter by loan status
-* Filter by loan ID
-* Filter by date
-
-All visuals respond dynamically to slicer selections.
-
----
-
-## 💼 Business Use Case
-
-This project simulates how a real lending institution would:
-
-* Onboard clients
-* Issue loans
-* Track repayments
-* Manage debt portfolios
-* Monitor financial performance
-* Make data-driven decisions
-
----
-
-## 🧠 Skills Demonstrated
-
-* Excel automation
-* Advanced formulas
-* Lookup functions
-* Data validation
-* Financial modeling
-* Pivot tables
-* Power BI dashboard design
-* Business intelligence reporting
-
----
-
-## 🚀 How to Use
-
-1. Add new clients in the **Clients Sheet**
-2. Issue loans from the **Loans Sheet**
-3. Record repayments in the **Payments Sheet**
-4. Balances and loan status update automatically
-5. Refresh Power BI to view updated analytics
-
----
-
-## 🔧 Tools Used
-
-* Microsoft Excel
-* Power BI Desktop
-* Pivot Tables
-* Power Query
-* DAX
-
----
+  ## 📊 Reports & Insights
+  * Generate structured reports such as:
+    1. Active clients
+    2. Revenue summaries
+    3. Service distribution by bandwidth
+    4. Equipment sales
+  * Enable data-driven decision making 📈
+
+ ---
+
+  ## 🗄️ Database Design
+
+   The system is built using relational database principles in MS Access, featuring:
+
+   * Well-structured tables (Clients, Services, Payments, Equipment, Installations)
+   * Relationships enforcing data integrity
+   * Forms for user-friendly data entry
+   * Queries for automation and logic
+   * Reports for business insights
+
+ ---
+
+  ## 🖥️ Tech Stack
+Microsoft Access
+  * Forms (UI)
+  * Queries (Logic)
+  * Tables (Database)
+  * Reports (Analytics)
+
+ ---
+
+ ##  🚀 How to Use
+  1. Launch the Azani.accdb file
+  2. Navigate through the dashboard/forms
+  3. Start by:
+     
+  • Registering a new institution
+  
+  • Assigning internet services
+  
+  • Recording installation details
+  
+  4. Use reports to monitor performance and revenue
+
+ ---
+
+  ##  🎯 Project Objectives
+  * Digitize ISP operations
+  * Improve data organization and accessibility
+  * Automate billing and service tracking
+  * Provide actionable insights through reports
+    
+ ---
+
+  ##  📸 Sample System Modules (Optional Section You Can Add Screenshots To)
+  * Client Registration Form
+  * Service Allocation Dashboard
+  * Billing & Payment Interface
+  * Reports Panel
+
+ ---
+
+## 💡 Future Improvements
+* Integration with Power BI for advanced analytics
+* Migration to a web-based system (ASP.NET / Django)
+* Real-time payment integration (e.g. M-Pesa API)
+* User authentication & role management
+
+ ---
 
 ## 📚 Data Dictionary
 <img width="780" height="527" alt="image" src="https://github.com/user-attachments/assets/bd141cb8-9b77-412d-b40a-e0252738343c" />
@@ -311,22 +176,22 @@ This project simulates how a real lending institution would:
 
 ---
 
-## 📜 Disclaimer
+### 📜 Disclaimer
 
 This project is for demonstration and portfolio purposes only.
 Flash Logistics is a fictional company created for learning and development.
 
 ---
+# 👨‍💻 Author
+Elvis Mbaya
+📊 Data Analyst | Power BI Developer | Systems Builder
 
-## 👤 Author
+###  🔗 Main GitHub Portfolio:
+  https://github.com/elvisflash/elvisflash
 
-**Elvis Mbaya**
-Data Analyst
-Excel Automation | Power BI | Business Intelligence
+ ---
 
----
-
-## ⭐ Portfolio Value
+### ⭐ Portfolio Value
 
 If you find this project useful, feel free to star ⭐ the repository.
 
