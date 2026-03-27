@@ -164,15 +164,16 @@ Microsoft Access
 <img width="287" height="213" alt="image" src="https://github.com/user-attachments/assets/55aac07c-9d63-46ad-bb22-825029330b5e" />    <img width="461" height="211" alt="image" src="https://github.com/user-attachments/assets/0bba2b55-10d8-48a5-b8fa-053a4a969524" />
 
 ---
-## 📚 Dashboard - PowerBI
-* PAGE 1
-<img width="1494" height="810" alt="PAGE1" src="https://github.com/user-attachments/assets/38424c66-e3b6-4d84-b1c7-6751a252f6fd" />
+## 📚 Sytem Layout (Interface)
+* MAIN PAGE/Dashboard
+<img width="827" height="455" alt="image" src="https://github.com/user-attachments/assets/fee337eb-86db-4b0d-90bc-dab20c3719ba" />
+
 
 * PAGE 2
-<img width="1482" height="809" alt="PAGE2" src="https://github.com/user-attachments/assets/032ab130-9697-4209-838a-e339a7c027fd" />
+
 
 * PAGE 3
-<img width="1434" height="806" alt="PAGE3" src="https://github.com/user-attachments/assets/08f6b0a9-5ef1-4c30-a305-63271e2d000a" />
+
 
 ---
 
