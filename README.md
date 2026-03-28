@@ -160,6 +160,7 @@ Microsoft Access
 
 ---
 ## 📚 Sytem Layout (Interface)
+### Forms (Interface)
 * MAIN PAGE/Dashboard
 <img width="827" height="455" alt="image" src="https://github.com/user-attachments/assets/fee337eb-86db-4b0d-90bc-dab20c3719ba" />
 
@@ -167,8 +168,40 @@ Microsoft Access
 <img width="802" height="428" alt="image" src="https://github.com/user-attachments/assets/4f7f1854-6b58-4087-9b19-619cd8cbcf93" />
 
 * Infrastructure Interface
+<img width="581" height="399" alt="image" src="https://github.com/user-attachments/assets/5b946150-6e29-4858-8724-64e5c25d11bd" />
 
+* Installation services Interface
+<img width="622" height="421" alt="image" src="https://github.com/user-attachments/assets/8dbab494-4726-41e3-821a-a7ac94143c46" />
 
+* Monthly Subscription Interface
+<img width="820" height="471" alt="image" src="https://github.com/user-attachments/assets/2bfe2f1b-2817-4f4c-8d0f-1488f0d1a134" />
+
+* Band Width packages Interface
+<img width="586" height="289" alt="image" src="https://github.com/user-attachments/assets/c812fe8e-8ded-4a62-876b-c47e273e88fa" />
+
+* LAN packages Interface
+<img width="548" height="328" alt="image" src="https://github.com/user-attachments/assets/fcfeb33c-1977-4925-b142-a60f7302dbc4" />
+
+---
+
+### Reports (Interfaces)
+<img width="867" height="675" alt="image" src="https://github.com/user-attachments/assets/72ed3fa2-4d3a-46f4-b4d6-db96c438672c" />
+
+<img width="981" height="630" alt="image" src="https://github.com/user-attachments/assets/b0b89a3d-39f4-4a01-af1f-2c0b5a0a03f5" />
+
+<img width="788" height="587" alt="image" src="https://github.com/user-attachments/assets/42c00d68-76a9-4946-9d4d-ec474ecf4413" />
+
+<img width="653" height="495" alt="image" src="https://github.com/user-attachments/assets/6f2690ad-45a2-44cb-81af-d19e5f92460d" />
+
+<img width="665" height="475" alt="image" src="https://github.com/user-attachments/assets/7d0a195a-5263-4096-abf9-adc841222385" />
+
+<img width="762" height="479" alt="image" src="https://github.com/user-attachments/assets/a300e4f9-1418-4e59-9a75-bb5d7cf64698" />
+
+<img width="654" height="388" alt="image" src="https://github.com/user-attachments/assets/c0a76438-1dba-40bc-a0ca-bb07acdd64f8" />
+
+<img width="794" height="505" alt="image" src="https://github.com/user-attachments/assets/9e1e8b8c-5891-4dca-ac5d-f37251f67c87" />
+
+<img width="720" height="440" alt="image" src="https://github.com/user-attachments/assets/b2eb97eb-c9aa-45ca-98cb-ccd969768e3f" />
 
 ---
 
