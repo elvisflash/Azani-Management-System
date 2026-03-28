@@ -151,17 +151,12 @@ Microsoft Access
  ---
 
 ## 📚 Data Dictionary
-<img width="780" height="527" alt="image" src="https://github.com/user-attachments/assets/bd141cb8-9b77-412d-b40a-e0252738343c" />
-<img width="732" height="568" alt="image" src="https://github.com/user-attachments/assets/9a009d1e-bd1d-4b07-b31e-d6b4fb96ded7" />
+
 
 ---
 
 ## 📚 Sample Data Sets
-<img width="1648" height="468" alt="image" src="https://github.com/user-attachments/assets/a67d6fcc-74ca-4cfb-8ac9-2875e42419f2" />
-<img width="827" height="278" alt="image" src="https://github.com/user-attachments/assets/ac6fa557-d1bb-484e-b0f1-3eafdf3e6910" />
-<img width="1372" height="513" alt="image" src="https://github.com/user-attachments/assets/606887b1-89dd-4faf-8181-e90a519a641c" />
-<img width="249" height="267" alt="image" src="https://github.com/user-attachments/assets/3ee58bb4-97a1-4dfd-b597-b2d53084de3a" />
-<img width="287" height="213" alt="image" src="https://github.com/user-attachments/assets/55aac07c-9d63-46ad-bb22-825029330b5e" />    <img width="461" height="211" alt="image" src="https://github.com/user-attachments/assets/0bba2b55-10d8-48a5-b8fa-053a4a969524" />
+
 
 ---
 ## 📚 Sytem Layout (Interface)
@@ -172,10 +167,7 @@ Microsoft Access
 <img width="802" height="428" alt="image" src="https://github.com/user-attachments/assets/4f7f1854-6b58-4087-9b19-619cd8cbcf93" />
 
 * Infrastructure Interface
-  
 
-
-* PAGE 3
 
 
 ---
