@@ -152,10 +152,42 @@ Microsoft Access
 
 ## 📚 Data Dictionary
 
+* TABLES
+  
+  <img width="428" height="170" alt="image" src="https://github.com/user-attachments/assets/b2342a71-242a-409f-9b47-b76c742ce687" />
+
+* QUERIES
+  
+  <img width="422" height="369" alt="image" src="https://github.com/user-attachments/assets/73b6d418-019c-46e1-a3e6-5fd02fe60da6" />
+
+* FORMS
+  
+  <img width="426" height="211" alt="image" src="https://github.com/user-attachments/assets/fd7f1b20-b02e-4956-b839-b0e7bbb9abf2" />
+
+* REPORTS
+  
+  <img width="424" height="232" alt="image" src="https://github.com/user-attachments/assets/4e5add4e-0fab-47ca-87db-932737a6e7c2" />
+
+
+### Relationships
+
+<img width="1157" height="656" alt="image" src="https://github.com/user-attachments/assets/fbfb48fd-e04a-4e0a-99a2-81aa4fd326e6" />
 
 ---
 
 ## 📚 Sample Data Sets
+
+<img width="950" height="541" alt="image" src="https://github.com/user-attachments/assets/53228490-2800-4372-8ab6-4766204eec7c" />
+
+<img width="948" height="568" alt="image" src="https://github.com/user-attachments/assets/02192249-76cc-49d3-86b7-3ccb2aac87ca" />
+
+<img width="954" height="567" alt="image" src="https://github.com/user-attachments/assets/40640198-75b5-466a-873c-30913d9171ea" />
+
+<img width="958" height="559" alt="image" src="https://github.com/user-attachments/assets/745594e5-a800-4f99-93b4-c3f8bc8871db" />
+
+<img width="955" height="569" alt="image" src="https://github.com/user-attachments/assets/e1f21cd9-c721-41a8-9885-f227b0d44a2a" />
+
+<img width="968" height="579" alt="image" src="https://github.com/user-attachments/assets/76da677e-ab38-4431-b647-d34b8d70e4a3" />
 
 
 ---
