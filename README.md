@@ -240,7 +240,7 @@ Microsoft Access
 ### 📜 Disclaimer
 
 This project is for demonstration and portfolio purposes only.
-Flash Logistics is a fictional company created for learning and development.
+AZANI is a fictional company created for learning and development.
 
 ---
 # 👨‍💻 Author
